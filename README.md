@@ -22,6 +22,7 @@ Backend Engineer specializing in systems programming, high-performance tooling, 
 ### Tech Stack & Ecosystem
 - **Languages:** Rust, Go, C, Shell (Fish/Bash)
 - **Infrastructure:** Docker, Linux (CachyOS/Arch), Git, GitHub Actions
+- **Education:** High school graduated, i'm a university student
 
 ### Bounty & Contributions Focus
 I actively hunt for backend performance optimization, memory leak patches, and concurrency fixes. 
