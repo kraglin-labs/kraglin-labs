@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi, I'm Kraglin
+# Hello Stranger
 
 Backend Engineer specializing in systems programming, high-performance tooling, and low-latency infrastructure.
 
