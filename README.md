@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 # Hello Stranger
 
-Backend Engineer specializing in systems programming, high-performance tooling, and low-latency infrastructure.
+I'm a Backend Engineer specializing in systems programming, high-performance tooling, and low-latency infrastructure.
 
 ### Tech Stack & Ecosystem
 - **Languages:** Rust, Go, C, Shell (Fish/Bash)
 - **Infrastructure:** Docker, Linux (CachyOS/Arch), Git, GitHub Actions
-- **Education:** High school graduated, i'm a university student
+- **Education:** I'm a university student
 
-### Bounty & Contributions Focus
-I actively hunt for backend performance optimization, memory leak patches, and concurrency fixes. 
-Open to technical contract tasks in Rust and Go ecosystems.
+### Contact
+- **GitHub:** [kraglin-labs](github.com/kraglin-labs)
+- **Email:** [mr-anonymous1709@proton.me](mr-anonymous1709@proton.me)
