@@ -1,29 +1,28 @@
+# Hi there, I'm Kraglin 
 
-<!--
-**kraglin-labs/kraglin-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Backend Engineer** focused on building high-performance services, low-latency tools, and reliable infrastructure. I enjoy diving into backend systems, command-line tooling, and system-level development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Up To
+-  **Building:** Systems tools, backend APIs, and log analysis engines.
+-  **Learning & Growing:** Deepening my expertise in **Rust** and **Go** through hands-on projects.
+-  **Environment:** Building and developing on **CachyOS Linux**.
+-  **Education:** Pursuing an engineering degree at university.
 
-
-# Hello Stranger
-
-I'm a Backend Engineer specializing in systems programming, high-performance tooling, and low-latency infrastructure.
+---
 
 ### Tech Stack & Ecosystem
-- **Languages:** Rust, Go, C, Shell (Fish/Bash)
-- **Infrastructure:** Docker, Linux (CachyOS/Arch), Git, GitHub Actions
-- **Education:** I'm a university student
 
-### Contact
-- **GitHub:** [kraglin-labs](github.com/kraglin-labs)
-- **Email:** [mr-anonymous1709@proton.me](mr-anonymous1709@proton.me)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Rust, Go, C, Shell (Bash/Fish) |
+| **Backend & Web** | Axum, Gin, Templ, HTMX, REST APIs |
+| **Databases** | PostgreSQL, Supabase |
+| **DevOps & OS** | Docker, Git, Linux (CachyOS/Arch), GitHub Actions |
+
+---
+
+### Get in Touch
+- **GitHub:** [@kraglin-labs](https://github.com/kraglin-labs)
+- **Email:** [mr-anonymous1709@proton.me](mailto:mr-anonymous1709@proton.me)
