@@ -16,7 +16,7 @@ I'm a **Backend Engineer** focused on building high-performance services, low-la
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Rust, Go, C, Shell (Bash/Fish) |
+| **Languages** | Rust, Go, C (un peu), Shell (Bash/Fish) |
 | **Backend & Web** | Axum, Gin, Templ, HTMX, REST APIs |
 | **Databases** | PostgreSQL, Supabase |
 | **DevOps & OS** | Docker, Git, Linux (CachyOS/Arch), GitHub Actions |
